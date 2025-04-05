@@ -19,8 +19,8 @@ namespace AvatarClothingHelper
         [AutoRegisterConfigKey]
         private static ModConfigurationKey<bool> GenerateSlotPerBlendshape = new ModConfigurationKey<bool>("GenerateSlotPerBlendshape", "Generate each Blendshape ValueCopy and MultiDriver on a nested slot.", () => true);
 
-        public override string Author => "Banane9";
-        public override string Link => "https://github.com/Banane9/ResoniteAvatarClothingHelper";
+        public override string Author => "Banane9 - hazre - zahndy";
+        public override string Link => "";
         public override string Name => "AvatarClothingHelper";
         public override string Version => "2.0.0";
 
