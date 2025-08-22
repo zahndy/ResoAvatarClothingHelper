@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31727.386
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvatarClothingHelper", "AvatarClothingHelper\AvatarClothingHelper.csproj", "{0322B2EF-7452-479D-BAE2-FCAB75033337}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvatarClothingHelper", "AvatarClothingHelper.csproj", "{70E5C9D6-A414-4421-8FF2-223DDE114F09}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0322B2EF-7452-479D-BAE2-FCAB75033337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0322B2EF-7452-479D-BAE2-FCAB75033337}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0322B2EF-7452-479D-BAE2-FCAB75033337}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0322B2EF-7452-479D-BAE2-FCAB75033337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E5C9D6-A414-4421-8FF2-223DDE114F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E5C9D6-A414-4421-8FF2-223DDE114F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E5C9D6-A414-4421-8FF2-223DDE114F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E5C9D6-A414-4421-8FF2-223DDE114F09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0322B2EF-7452-479D-BAE2-FCAB75033337}
+		SolutionGuid = {81C41A68-6F6B-443A-8F77-B3A32AB8C8C0}
 	EndGlobalSection
 EndGlobal
